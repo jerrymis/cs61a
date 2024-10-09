@@ -1,0 +1,1 @@
+This repository contains the exercises and projects I completed as part of the CS61A course: Structure and Interpretation of Computer Programs, offered by UC Berkeley. CS61A focuses on foundational concepts in computer science, with an emphasis on abstraction, algorithms, and functional programming using Python.
